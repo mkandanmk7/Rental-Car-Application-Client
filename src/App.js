@@ -6,7 +6,7 @@ import Login from "./pages/Login";
 import Register from "./pages/Register";
 
 function App() {
-  console.log("hello World");
+  console.log("hello World!");
   return (
     <div className="App">
       <BrowserRouter>
